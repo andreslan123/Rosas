@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Flores 21 | Ramos de flores amarillas</title>
+    <link rel="icon" type="image/png" href="{{ asset('imagenes/iconoGirasol.png') }}">
 
     @vite('resources/css/app.css')
 </head>
